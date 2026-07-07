@@ -101,5 +101,5 @@ Screenshots are available inside the **screenshots** folder.
 
 Shaik Sohel Ali
 
-GitHub:
-https://github.com/YOUR_USERNAME
+🙏 Acknowledgement
+This task was completed as part of the Elevate Labs Data Analyst Internship Program.
